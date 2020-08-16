@@ -3,7 +3,7 @@
 ## Q. Implementation of Language recogniser for set of all strings ending with two symbols of same type.
 
 #### DFA:
-
+    <img src='./dfa.jpg'>
 
 #### Code:
 
